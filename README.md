@@ -1,4 +1,5 @@
 <img width="233" height="195" alt="Full-Logo" src="https://github.com/user-attachments/assets/0cdf67c2-b93d-46b1-91fd-8ef4c62bf6a1" />
+
 # DevKit
 An open source laptop made for developers!
 
